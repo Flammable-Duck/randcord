@@ -1,3 +1,4 @@
+#!/bin/python
 import random 
 from os import system, name
 
